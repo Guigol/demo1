@@ -3,7 +3,7 @@
 ## Technologies
 - Langage: [Java 17]
 - Framework: [Springboot 3.5.4] 
-- Base de données: H2/MySQL (MYsQL sur H2 Console)
+- Base de données: H2/MySQL (MySQL sur H2 Console)
 - Port API: [8085] (configurable)
 
 ## Quick Start
@@ -11,8 +11,8 @@
 1. `docker-compose --profile mysql up -d` 
 
 ## Long Start
-1- ouvrir le dossier du projet avec Intellij ou Eclipse (JDK17)
-2- Démarrer le projet
+1. ouvrir le dossier du projet avec Intellij ou Eclipse (JDK17)
+2. Démarrer le projet
 
 **Access in 30 seconds:**
 - 🗄️ **H2:** `localhost:8085/h2-console`
@@ -38,8 +38,6 @@ Java lance déjà une distribution de données via DBInit et InternalFactory, ce
     User Name:`dev`
     Password:`dev123`
 
-## Tests  
-[commande_lancement_tests] - Tests unitaires + intégration
 
 ## Architecture
 - Architecture MVC
