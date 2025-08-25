@@ -45,7 +45,8 @@ Java lance déjà une distribution de données via DBInit et InternalFactory, ce
 SpringBoot, développé en Java, propose de nombreuses fonctions intégrées permettant l’implémentation d’application N’tier.
 
 La structure du projet se présente comme suit :
-1. 7 packages regroupant différents objets d'une même catégorie. Comme ci-dessous :
+
+- 7 packages regroupant différents objets d'une même catégorie. Comme ci-dessous :
         - controllers = contient tous les controlleurs pour contrôler les acccès aux EndPoints
         - config = les classes propres à la configuration système et sécurité de l'application
         - dtos (DataTransfertObject)= récupération et retour des champs de données
@@ -53,6 +54,6 @@ La structure du projet se présente comme suit :
         - factory = fabrique d'une routine X ou Y (dans le cas présent, alimentation au démarrage des tables pour la BDD)
         - repositories = passe plat entre Java et la BDD (Jpa)
         - services = tous les services à exécuter dans l'application
-2. Tous les services sont distincts les uns des autres
+- Tous les services sont distincts les uns des autres
 
 
