@@ -47,13 +47,15 @@ SpringBoot, développé en Java, propose de nombreuses fonctions intégrées per
 La structure du projet se présente comme suit :
 
 - 7 packages regroupant différents objets d'une même catégorie. Comme ci-dessous :
-        - controllers = contient tous les controlleurs pour contrôler les acccès aux EndPoints
-        - config = les classes propres à la configuration système et sécurité de l'application
-        - dtos (DataTransfertObject)= récupération et retour des champs de données
-        - entities = toutes les tables de la base de données
-        - factory = fabrique d'une routine X ou Y (dans le cas présent, alimentation au démarrage des tables pour la BDD)
-        - repositories = passe plat entre Java et la BDD (Jpa)
-        - services = tous les services à exécuter dans l'application
+
+1. controllers = contient tous les controlleurs pour contrôler les acccès aux EndPoints
+2. config = les classes propres à la configuration système et sécurité de l'application
+3. dtos (DataTransfertObject)= récupération et retour des champs de données
+4. entities = toutes les tables de la base de données
+5. factory = fabrique d'une routine X ou Y (dans le cas présent, alimentation au démarrage des tables pour la BDD)
+6. repositories = passe plat entre Java et la BDD (Jpa)
+7. services = tous les services à exécuter dans l'application
+
 - Tous les services sont distincts les uns des autres
 
 
