@@ -1,0 +1,20 @@
+{
+  "id": 82,
+  "name": "HEROKU",
+  "description": "WEB PLATFORM",
+  "vendor": "HEROKU Corp",
+  "websiteUrl": "https://heroku.com",
+  "category": {
+    "id": 2,
+    "name": "Category_id 2",
+    "description": "Description for Category 2",
+    "colorHex": "#6366f1",
+    "createdAt": "2025-08-25T06:02:19.148234"
+  },
+  "monthlyCost": 8,
+  "activeUsersCount": 0,
+  "ownerDepartment": "ENGINEERING",
+  "status": "ACTIVE",
+  "createdAt": "2025-08-25T06:26:14.2807271",
+  "updatedAt": "2025-08-25T06:26:14.2807271"
+}

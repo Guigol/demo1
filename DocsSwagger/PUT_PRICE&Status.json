@@ -1,0 +1,21 @@
+{
+  "id": 8,
+  "name": "Slack",
+  "vendor": "Slack Technologies",
+  "categoryName": "Category_id 1",
+  "description": "Team messaging and collaboration platform",
+  "websiteUrl": "https://slack.com",
+  "monthlyCost": 7.5,
+  "ownerDepartment": "ENGINEERING",
+  "status": "DEPRECATED",
+  "activeUsersCount": 25,
+  "totalMonthlyCost": 187.5,
+  "createdAt": "2025-08-25T03:42:48.986289",
+  "updatedAt": "2025-08-25T03:47:20.1155655",
+  "usageMetrics": {
+    "last_30_days": {
+      "avg_session_minutes": 45,
+      "total_sessions": 127
+    }
+  }
+}

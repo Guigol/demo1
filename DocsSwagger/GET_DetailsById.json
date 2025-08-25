@@ -1,0 +1,21 @@
+{
+  "id": 5,
+  "name": "Tool 5",
+  "vendor": "Microsoft",
+  "categoryName": "Category_id 5",
+  "description": "Description for Tool 5",
+  "websiteUrl": "https://www.example.com/tool5",
+  "monthlyCost": 254,
+  "ownerDepartment": "DESIGN",
+  "status": "TRIAL",
+  "activeUsersCount": 49,
+  "totalMonthlyCost": 12446,
+  "createdAt": "2025-08-25T01:14:21.435612",
+  "updatedAt": "2025-08-25T01:14:21.435612",
+  "usageMetrics": {
+    "last_30_days": {
+      "total_sessions": 127,
+      "avg_session_minutes": 45
+    }
+  }
+}

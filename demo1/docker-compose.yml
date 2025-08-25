@@ -1,0 +1,29 @@
+version: "3.9"
+services:
+  app:
+    build: .
+    container_name: internal-tools-app
+    ports:
+      - "8085:8085"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:h2:file:/data/internal_tools;DB_CLOSE_ON_EXIT=FALSE;AUTO_SERVER=TRUE
+      SPRING_DATASOURCE_USERNAME: sa
+      SPRING_DATASOURCE_PASSWORD:
+      SPRING_JPA_HIBERNATE_DDL_AUTO: update
+      SPRING_JPA_SHOW_SQL: "true"
+      SERVER_PORT: 8085
+    volumes:
+      - ./h2-data:/data
+    depends_on:
+      - h2
+
+  h2:
+    image: oscarfonts/h2
+    container_name: h2-db
+    ports:
+      - "9092:9092"
+      - "8082:8082" # console H2 accessible via navigateur
+    environment:
+      H2_OPTIONS: "-ifNotExists"
+    volumes:
+      - ./h2-data:/opt/h2-data

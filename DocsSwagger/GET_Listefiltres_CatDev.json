@@ -1,0 +1,198 @@
+{
+  "total": 9,
+  "data": [
+    {
+      "id": 25,
+      "name": "HubSpot",
+      "vendor": "HubSpot Inc.",
+      "categoryName": "Development",
+      "description": "CRM and marketing automation",
+      "websiteUrl": "https://hubspot.com",
+      "monthlyCost": 45,
+      "ownerDepartment": "MARKETING",
+      "status": "ACTIVE",
+      "activeUsersCount": 6,
+      "totalMonthlyCost": 270,
+      "createdAt": null,
+      "updatedAt": null,
+      "usageMetrics": {
+        "last_30_days": {
+          "total_sessions": 0,
+          "avg_session_minutes": 0
+        }
+      }
+    },
+    {
+      "id": 26,
+      "name": "Mailchimp",
+      "vendor": "Intuit Mailchimp",
+      "categoryName": "Development",
+      "description": "Email marketing platform",
+      "websiteUrl": "https://mailchimp.com",
+      "monthlyCost": 10,
+      "ownerDepartment": "MARKETING",
+      "status": "ACTIVE",
+      "activeUsersCount": 3,
+      "totalMonthlyCost": 30,
+      "createdAt": null,
+      "updatedAt": null,
+      "usageMetrics": {
+        "last_30_days": {
+          "total_sessions": 0,
+          "avg_session_minutes": 0
+        }
+      }
+    },
+    {
+      "id": 33,
+      "name": "Legacy CRM System",
+      "vendor": "OldTech",
+      "categoryName": "Development",
+      "description": "Old customer relationship management",
+      "websiteUrl": "https://oldtech.com",
+      "monthlyCost": 75,
+      "ownerDepartment": "SALES",
+      "status": "ACTIVE",
+      "activeUsersCount": 1,
+      "totalMonthlyCost": 75,
+      "createdAt": null,
+      "updatedAt": null,
+      "usageMetrics": {
+        "last_30_days": {
+          "total_sessions": 0,
+          "avg_session_minutes": 0
+        }
+      }
+    },
+    {
+      "id": 49,
+      "name": "HubSpot",
+      "vendor": "HubSpot Inc.",
+      "categoryName": "Development",
+      "description": "CRM and marketing automation",
+      "websiteUrl": "https://hubspot.com",
+      "monthlyCost": 45,
+      "ownerDepartment": "MARKETING",
+      "status": "ACTIVE",
+      "activeUsersCount": 6,
+      "totalMonthlyCost": 270,
+      "createdAt": null,
+      "updatedAt": null,
+      "usageMetrics": {
+        "last_30_days": {
+          "total_sessions": 0,
+          "avg_session_minutes": 0
+        }
+      }
+    },
+    {
+      "id": 50,
+      "name": "Mailchimp",
+      "vendor": "Intuit Mailchimp",
+      "categoryName": "Development",
+      "description": "Email marketing platform",
+      "websiteUrl": "https://mailchimp.com",
+      "monthlyCost": 10,
+      "ownerDepartment": "MARKETING",
+      "status": "ACTIVE",
+      "activeUsersCount": 3,
+      "totalMonthlyCost": 30,
+      "createdAt": null,
+      "updatedAt": null,
+      "usageMetrics": {
+        "last_30_days": {
+          "total_sessions": 0,
+          "avg_session_minutes": 0
+        }
+      }
+    },
+    {
+      "id": 57,
+      "name": "Legacy CRM System",
+      "vendor": "OldTech",
+      "categoryName": "Development",
+      "description": "Old customer relationship management",
+      "websiteUrl": "https://oldtech.com",
+      "monthlyCost": 75,
+      "ownerDepartment": "SALES",
+      "status": "ACTIVE",
+      "activeUsersCount": 1,
+      "totalMonthlyCost": 75,
+      "createdAt": null,
+      "updatedAt": null,
+      "usageMetrics": {
+        "last_30_days": {
+          "total_sessions": 0,
+          "avg_session_minutes": 0
+        }
+      }
+    },
+    {
+      "id": 73,
+      "name": "HubSpot",
+      "vendor": "HubSpot Inc.",
+      "categoryName": "Development",
+      "description": "CRM and marketing automation",
+      "websiteUrl": "https://hubspot.com",
+      "monthlyCost": 45,
+      "ownerDepartment": "MARKETING",
+      "status": "ACTIVE",
+      "activeUsersCount": 6,
+      "totalMonthlyCost": 270,
+      "createdAt": null,
+      "updatedAt": null,
+      "usageMetrics": {
+        "last_30_days": {
+          "total_sessions": 0,
+          "avg_session_minutes": 0
+        }
+      }
+    },
+    {
+      "id": 74,
+      "name": "Mailchimp",
+      "vendor": "Intuit Mailchimp",
+      "categoryName": "Development",
+      "description": "Email marketing platform",
+      "websiteUrl": "https://mailchimp.com",
+      "monthlyCost": 10,
+      "ownerDepartment": "MARKETING",
+      "status": "ACTIVE",
+      "activeUsersCount": 3,
+      "totalMonthlyCost": 30,
+      "createdAt": null,
+      "updatedAt": null,
+      "usageMetrics": {
+        "last_30_days": {
+          "total_sessions": 0,
+          "avg_session_minutes": 0
+        }
+      }
+    },
+    {
+      "id": 81,
+      "name": "Legacy CRM System",
+      "vendor": "OldTech",
+      "categoryName": "Development",
+      "description": "Old customer relationship management",
+      "websiteUrl": "https://oldtech.com",
+      "monthlyCost": 75,
+      "ownerDepartment": "SALES",
+      "status": "ACTIVE",
+      "activeUsersCount": 1,
+      "totalMonthlyCost": 75,
+      "createdAt": null,
+      "updatedAt": null,
+      "usageMetrics": {
+        "last_30_days": {
+          "total_sessions": 0,
+          "avg_session_minutes": 0
+        }
+      }
+    }
+  ],
+  "filtered": 9,
+  "filters_applied": {
+    "category": "Development"
+  }
+}
